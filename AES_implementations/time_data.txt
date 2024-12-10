@@ -1,0 +1,21 @@
+Encyption
+Serial Encyption - 679
+Omp Encyption - 405.549 (5 threads)
+Gpu Encyption - 37
+
+Decryption
+Serial Decryption - 665
+Omp Decryption - 568.181 (5 threads)
+Gpu Decryption - 56
+
+OMP Encyption
+2 - 726.707
+4 - 707.747
+8 - 525.229
+16 -1551.29
+
+OMP Decryption
+2 - 688.601
+4 - 761.564
+8 - 345.238
+16 - 734.107

@@ -1,0 +1,24 @@
+The idea of an asymmetric public-private key cryptosystem is attributed to Whitfield Diffie
+ and Martin Hellman, who published this concept in 1976. They also introduced digital signatures
+ and attempted to apply number theory.
+Their formulation used a shared-secret-key created from exponentiation of some number, modulo a prime number.
+However, they left open the problem of realizing
+a one-way function, possibly because the difficulty of 
+factoring was not well-studied at the time.
+[4] Moreover, like Diffie-Hellman, RSA is based on modular exponentiation.
+
+Figure 3 shows the architecture of the generator G,
+which 
+retains different levels of context states
+with a hierarchy constructed by a paragraph RNN, a sen-
+tence RNN, and a word RNN, and two attention modules.
+First, the RNN encodes the current paragraph
+state based on all preceding sentences. Second, the spa-
+tial visual attention module selectively focuses on semantic
+regions with the guidance of current paragraph state to pro-
+duce the visual representation of the sentence. The sentence
+RNN is thus able to encode a topic vector for the new sen-
+tence. Third, the language attention module learns to incor-
+porate linguistic knowledge embedded in local phrases of
+focused semantic regions to facilitate word generation by
+the word RN
