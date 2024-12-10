@@ -1,0 +1,45 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/lonewolf/Coding Projects/Parallel Sceintific Computing/MPI/Assignment-2/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "linux-gcc-x64",
+            "compilerPathInCppPropertiesJson": "/usr/bin/mpic++",
+            "mergeConfigurations": false,
+            "browse": {
+                "path": [
+                    "/home/lonewolf/Coding Projects/Parallel Sceintific Computing/MPI/Assignment-2/**",
+                    "${workspaceFolder}"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            }
+        },
+        {
+            "name": "MPICPP",
+            "includePath": [
+                "/home/lonewolf/Coding Projects/Parallel Sceintific Computing/MPI/Assignment-2/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/mpic++",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "linux-gcc-x64",
+            "compilerPathInCppPropertiesJson": "/usr/bin/gcc",
+            "mergeConfigurations": false,
+            "browse": {
+                "path": [
+                    "/home/lonewolf/Coding Projects/Parallel Sceintific Computing/MPI/Assignment-2/**",
+                    "${workspaceFolder}"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            }
+        }
+    ],
+    "version": 4
+}

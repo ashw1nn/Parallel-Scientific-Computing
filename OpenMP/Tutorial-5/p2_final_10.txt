@@ -1,0 +1,7 @@
+Time taken to create Matrix A is 8
+b : 1 0 0 0 0 0 0 0 0 0 
+x_i : 83 86 77 15 93 35 86 92 49 21 
+x_f : 0.952747 -0.0011182 -0.000739146 -0.000552021 -0.000440501 -0.000366467 -0.000313738 -0.000274274 -0.000243629 -0.90509 
+Time taken for 2 threads is 493
+Time taken for 4 threads is 166
+Time taken for 8 threads is 289

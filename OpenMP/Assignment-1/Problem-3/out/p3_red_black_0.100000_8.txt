@@ -1,0 +1,2 @@
+Iter: 1 Error : 0.961639
+It took 60 iterations and 0.00489941 secs

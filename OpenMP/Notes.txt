@@ -1,0 +1,4 @@
+1. Scope of Reduction Variable is both private and shared.
+2. Val of private var is unspecified both at entry and exit of parallel block.
+3. Val of shared var is preserved both at entry and exit of parallel block.
+

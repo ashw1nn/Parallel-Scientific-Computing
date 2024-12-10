@@ -1,0 +1,3 @@
+Iter: 1 Error : 0.9554
+Iter: 101 Error : 0.0250424
+It took 125 iterations and 0.00620302 secs
